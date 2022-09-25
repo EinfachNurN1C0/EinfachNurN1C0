@@ -14,3 +14,7 @@ My name is Nico, I've been exploring the far reaches of computer science for a f
       <a href="https://github.com/EinfachNurN1C0?tab=followers">
          <img alt="github" title="Follow me on Github ;)" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
    </p>
+   
+---
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachNurN1C0) - ![Github Stats](https://github-readme-stats.vercel.app/api?username=EinfachNurN1C0)
