@@ -1,4 +1,4 @@
-# 🪬 Hello, my Name is Nico - aka EinfachNurN1C0 👋
+# 🪬 Hello, my Name is Nico - aka EinfachNurN1C0
 
 **`--> Field of interest: System integration`**
 
