@@ -17,4 +17,4 @@ My name is Nico, I've been exploring the far reaches of computer science for a f
    
 ---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachNurN1C0&theme=dark&show_icons=true) - ![Github Stats](https://github-readme-stats.vercel.app/api?username=EinfachNurN1C0&theme=dark&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EinfachNurN1C0&theme=dark&show_icons=true)![Github Stats](https://github-readme-stats.vercel.app/api?username=EinfachNurN1C0&theme=dark&show_icons=true)
