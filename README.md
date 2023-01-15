@@ -7,7 +7,7 @@ My name is Nico, I've been exploring the far reaches of computer science for a f
    <p align="left">
       <a href="https://twitter.com/EinfachNurN1C0">
          <img alt="twitter" title="Reach me via Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-      <a href="https://dsc.gg/z1p-direct">
+      <a href="https://dsc.gg/bluetooth">
          <img alt="discord" title="Join my Discord Server" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
       <a href="mailto:support@nico-dev.tech">
          <img alt="support-mail" title="Reach me via my Support-Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
