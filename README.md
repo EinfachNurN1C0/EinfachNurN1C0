@@ -1,7 +1,7 @@
-# 🖐 Welcome to my Github profile
+# Nico
 
-**`--> Field of interest: System integration`**
+![Computer](Computer.png)
 
-My name is Nico, I've been exploring the far reaches of computer science for a few years now. I have found out that I am very interested in network administration and computer technology, which is why I always like to learn new things about these main topics or smaller side topics. If you want to contact me you can do so either via Twitter, Discord or via Email.
-   
----
+I can't code. I can't design. I can't do anything without three past versions. Sounds like I'm perfect for the role!
+
+If you want to contact me, feel free to reach out on **Discord**! My username is **@einfachnurn1c0**.
